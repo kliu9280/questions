@@ -1,4 +1,4 @@
-
+#TO Do: provide links to more information on animals
 for filename in $*
 do
 	echo $filename
